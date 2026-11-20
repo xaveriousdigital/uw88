@@ -1,0 +1,6 @@
+{
+  "name": "UW88 - Wallpaper PG Soft",
+  "description": "Aplikasi Kumpulan Wallpaper Game PG Soft dengan fitur unduh ke Downloads/uw88, pasang langsung ke layar utama atau layar kunci, dan update wallpaper terbaru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

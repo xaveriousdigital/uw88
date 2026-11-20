@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">UW88 - Wallpaper PG Soft</string>
+    <string name="btn_masuk">Masuk</string>
+    <string name="btn_kembali_galeri">Galeri</string>
+    <string name="btn_unduh">Unduh</string>
+    <string name="btn_pasang">Pasang</string>
+    <string name="btn_muat_ulang">Muat Ulang</string>
+    <string name="btn_tutup">Tutup</string>
+    <string name="cd_uw88_logo">Logo uw88</string>
+    <string name="cd_wallpaper_preview">Pratinjau wallpaper</string>
+    <string name="cd_share_app">Bagikan aplikasi uw88</string>
+    <string name="cd_share_wallpaper">Bagikan wallpaper ini</string>
+    <string name="cd_info_app">Informasi dan privasi aplikasi</string>
+    <string name="wallpaper_resolution_tag">HD • 1080×1920</string>
+    <string name="toast_downloading">Mengunduh %1$s ke Downloads/uw88…</string>
+    <string name="toast_download_complete">Unduhan selesai: tersimpan di Downloads/uw88</string>
+    <string name="toast_download_failed">Gagal memulai unduhan: %1$s</string>
+    <string name="toast_setting_wallpaper">Memasang wallpaper %1$s…</string>
+    <string name="toast_wallpaper_success">Wallpaper %1$s berhasil dipasang!</string>
+    <string name="toast_wallpaper_failed">Gagal memasang wallpaper. Coba lagi.</string>
+    <string name="toast_storage_permission_required">Izin penyimpanan diperlukan untuk menyimpan wallpaper di Android 9 ke bawah.</string>
+    <string name="toast_share_failed">Gagal membagikan wallpaper.</string>
+    <string name="downloading_wallpaper_desc">Mengunduh wallpaper HD dari uw88</string>
+    <string name="dialog_wallpaper_target_title">Pasang Wallpaper Ke</string>
+    <string name="wallpaper_target_home">Layar Utama</string>
+    <string name="wallpaper_target_lock">Layar Kunci</string>
+    <string name="wallpaper_target_both">Layar Utama &amp; Layar Kunci</string>
+    <string name="share_app_chooser_title">Bagikan Aplikasi uw88</string>
+    <string name="share_app_message">Coba aplikasi uw88 untuk koleksi wallpaper HD bertema game! Unduh di Google Play: https://play.google.com/store/apps/details?id=%1$s</string>
+    <string name="share_wallpaper_chooser_title">Bagikan Wallpaper %1$s</string>
+    <string name="share_wallpaper_message">Wallpaper %1$s (%2$s) dari aplikasi uw88</string>
+    <string name="info_dialog_title">Tentang uw88 (v%1$s)</string>
+    <string name="info_dialog_message">UW88 - Aplikasi Kumpulan Wallpaper Game PG Soft dengan fitur simpan ke Downloads/uw88, pasang langsung ke layar utama atau layar kunci, dan akses halaman update wallpaper terbaru.\n\nKebijakan Privasi:\n• Aplikasi ini tidak mengumpulkan, menyimpan, atau membagikan data pribadi pengguna.\n• Izin penyimpanan (Android 9 ke bawah) hanya digunakan saat Anda memilih Unduh wallpaper.\n• Semua gambar wallpaper dikemas secara aman dan pratinjau web hanya menggunakan koneksi terenkripsi HTTPS.</string>
+    <string name="web_error_title">Halaman Tidak Dapat Dimuat</string>
+    <string name="web_error_subtitle">Periksa koneksi internet Anda atau coba muat ulang halaman.</string>
+</resources>
